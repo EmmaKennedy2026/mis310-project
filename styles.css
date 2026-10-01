@@ -1,11 +1,11 @@
 /* General page styling */
 body {
-        font-family: times new roman;
+        font-family: 'Times New Roman', Times, serif;
 }
 
 /* Main heading */
 h1 {
-    font-family: Roboto Slab; 
+    font-family: Roboto slab; 
         font-size: 40px 
     background-color: #FFC5D3
         font-color: #FFFFFF
