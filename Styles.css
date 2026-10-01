@@ -20,10 +20,10 @@ a {
 nav {
     background-color: #FFD7EE;
     padding: 16px;
-    text-align: center;
+    text-align: right;
 }
 nav a {
-    color: white;
+    color: #D0C3F1;
     margin: 0 16px;
-    text-decoration: none;
+    text-decoration: underline;
 }
