@@ -2,23 +2,23 @@
 body {
     font-family: 'Times New Roman';
     color:black;
-    background-color: #FFD7EE;
+    background-color: #FFFFFF;
 }
 
 /* Main Heading */
 h1 {
     font-family: 'Roboto Slab';
     font-size: 40px;
-    color: #FFFFFF;
+    color: #000000;
 }
 a {
     font-family: 'Times New Roman';
     font-size: 14px;
     line-height: 1.5;
-    color: #000000;
+    color: #FFD7EE;
 }
 nav {
-    background-color: #FFD7EE;
+    background-color: #FFFFFF;
     padding: 16px;
     text-align: right;
 }
