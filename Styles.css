@@ -2,12 +2,18 @@
 body {
     font-family: 'Times New Roman';
     color:black;
-    background-color: #FFC5D3;
+    background-color: #FFD7EE;
 }
 
 /* Main Heading */
 h1 {
     font-family: 'Roboto Slab';
     font-size: 40px;
-    color: #FFFFFF
+    color: #FFFFFF;
+}
+a {
+    font-family: 'Times New Roman';
+    font-size: 14px;
+    color: #CEEEFD;
+
 }
