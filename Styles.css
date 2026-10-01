@@ -14,6 +14,16 @@ h1 {
 a {
     font-family: 'Times New Roman';
     font-size: 14px;
-    color: #CEEEFD;
-
+    line-height: 1.5;
+    color: #000000;
+}
+nav {
+    background-color: #FFD7EE;
+    padding: 16px;
+    text-align: center;
+}
+nav a {
+    color: white;
+    margin: 0 16px;
+    text-decoration: none;
 }
