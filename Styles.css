@@ -7,13 +7,13 @@ body {
 
 /* Main Heading */
 h1 {
-    font-family: 'Roboto Slab';
+    font-family: 'Times New Roman';
     font-size: 40px;
     color: #000000;
 }
 a {
     font-family: 'Times New Roman';
-    font-size: 14px;
+    font-size: 20px;
     line-height: 1.5;
     color: #FFD7EE;
 }
@@ -26,4 +26,9 @@ nav a {
     color: #D0C3F1;
     margin: 0 16px;
     text-decoration: underline;
+}
+boxed text {
+    border: 2px solid #000000;
+    padding: 2px 6px;
+    border-radius: 4px;
 }
