@@ -1,0 +1,13 @@
+/* General page styling */
+body {
+    font-family: 'Times New Roman';
+    color:black;
+    background-color: #FFC5D3;
+}
+
+/* Main Heading */
+h1 {
+    font-family: 'Roboto Slab';
+    font-size: 40px;
+    color:black
+}
