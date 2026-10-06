@@ -28,7 +28,7 @@ nav a {
     text-decoration: underline;
 }
 
-.boxed text {
+border-box {
     border: 2px solid #000000;
     padding: 2px 6px;
     border-radius: 4px;
