@@ -15,7 +15,7 @@ a {
     font-family: 'Times New Roman';
     font-size: 20px;
     line-height: 1.5;
-    color: #FFD7EE;
+    color: #000000;
 }
 nav {
     background-color: #FFFFFF;
@@ -23,7 +23,7 @@ nav {
     text-align: right;
 }
 nav a {
-    color: #D0C3F1;
+    color: #000000;
     margin: 0 16px;
     text-decoration: underline;
 }
@@ -36,5 +36,5 @@ border-box {
 h2 {
     font-family: 'Times New Roman';
     font-size: 40px; 
-    color: #E9F9E5; 
+    color: #000000; 
 } 
