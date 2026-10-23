@@ -21,6 +21,8 @@ nav {
     background-color: #FFFFFF;
     padding: 16px;
     text-align: right;
+    font-family: 'Times New Roman'
+    color: #000000;
 }
 nav a {
     color: #000000;
