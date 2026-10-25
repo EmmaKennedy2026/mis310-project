@@ -41,6 +41,8 @@ h2 {
 } 
 .flex-container {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .flex-container .one{
    flex: 1 2 0%;
