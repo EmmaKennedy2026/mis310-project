@@ -39,9 +39,21 @@ h2 {
     font-size: 40px; 
     color: #000000; 
 } 
-.flex-container {
-   display: flex; 
+.flex-container .one{
+   flex: 1 2 0%;
+   border-color: #FFFFFF; 
+   padding: 16px;
+   background-color: #CEEEF8;
 }
-.flex-container .one {
-    flex: 2 1 0%
+.flex-container .two{
+flex: 1 2 0%;
+border-color: #FFFFFF;
+padding: 16px;
+background-color: #CEEEF8;
+}
+.flex-container .three{
+    flex: 1 2 0%;
+    border-color: #FFFFFF;
+    padding: 16px;
+    background-color: #CEEEF8;
 }
