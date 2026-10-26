@@ -58,3 +58,10 @@ flex: 2 1 0%;
 .flex-container .three{
     flex: 2 1 0%;
 }
+.cards {
+    display: flex;
+    gap: 20px
+}
+.card {
+    width: 300px;
+}
