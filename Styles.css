@@ -90,3 +90,17 @@ padding: 20px;
     text-align: center;
     background-color: #CEEEF8;
 }
+/* Smaller screens */
+@media (max-width: 600px) {
+    .contact-content {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .contact-content img{
+        max-width: 100%;
+        height: auto;
+    }
+    .cards {
+        flex-direction: column;
+    }
+}
