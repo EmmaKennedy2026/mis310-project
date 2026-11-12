@@ -90,7 +90,7 @@ padding: 20px;
     text-align: center;
     background-color: #CEEEF8;
 }
-/* Smaller screens */
+/* Media Elements */
 @media (max-width: 600px) {
     .contact-content {
         flex-direction: column;
