@@ -104,3 +104,14 @@ padding: 20px;
         flex-direction: column;
     }
 }
+.grid-container {
+    display: grid;
+    grid-template-columns: 75 px
+   75px 75px;
+    grid-template-rows: 75px 75px;
+    gap: 32px;
+}
+.card {
+    background-color: #E3D7FF;
+    border: 1px #FFF6CC;
+}
